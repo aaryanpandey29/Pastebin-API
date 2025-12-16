@@ -3,7 +3,7 @@
 ![Django REST](https://img.shields.io/badge/DRF-API-red.svg)
 
 
-Pastebin API (Django REST Framework) :-
+Pastebin API (Django REST Framework) 
 
 
 A minimal Pastebin-style REST API built using Django REST Framework (DRF).
