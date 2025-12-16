@@ -3,14 +3,14 @@
 ![Django REST](https://img.shields.io/badge/DRF-API-red.svg)
 
 
-Pastebin API (Django REST Framework)
+Pastebin API (Django REST Framework) -
 
 
 A minimal Pastebin-style REST API built using Django REST Framework (DRF).
 This project is based on the official DRF tutorial and demonstrates how to build, serialize, and expose RESTful APIs using Django.
 
 
-🚀 Features
+🚀 Features :
 
 
 Create, read, update, and delete code snippets
@@ -26,7 +26,7 @@ Browsable REST API
 Clean DRF ViewSets & Routers
 
 
-🛠 Tech Stack
+🛠 Tech Stack :
 
 
 Python 3
@@ -40,7 +40,7 @@ SQLite (default database)
 Pygments (syntax highlighting)
 
 
-🔐 Permissions
+🔐 Permissions :
 
 
 Read access for everyone
@@ -50,7 +50,7 @@ Write access only for authenticated users
 Only owners can edit or delete their snippets
 
 
-🎨 Syntax Highlighting
+🎨 Syntax Highlighting :
 
 
 Snippets support syntax highlighting using Pygments, with selectable:
@@ -62,7 +62,7 @@ Style / theme
 Line numbers
 
 
-📚 Learning Goals
+📚 Learning Goals :
 
 
 This project helps you understand:
