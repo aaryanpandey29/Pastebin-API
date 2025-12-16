@@ -1,3 +1,8 @@
+![Python](https://img.shields.io/badge/Python-3.x-blue.svg)
+![Django](https://img.shields.io/badge/Django-4.x-success.svg)
+![Django REST](https://img.shields.io/badge/DRF-API-red.svg)
+
+
 Pastebin API (Django REST Framework)
 
 
